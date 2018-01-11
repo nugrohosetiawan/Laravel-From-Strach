@@ -6,10 +6,10 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-##10-11 January 
-#Belajar dari awal mengenai laravel , dari instalasi dan konsep routing berseta environtment dari Laravel
+## 10-11 January 
+- Belajar dari awal mengenai laravel , dari instalasi dan konsep routing berseta environtment dari Laravel
 
-#Manajemen File dengan Github 
+- Manajemen File dengan Github 
 
 
 
