@@ -10,7 +10,9 @@
 - Belajar dari awal mengenai laravel , dari instalasi dan konsep routing berseta environtment dari Laravel
 
 - Manajemen File dengan Github 
-
+## 14-15 January 
+- Template Blade (Buat Navigasi dan Perpindahan antar Halaman)
+- Database Migration (Mengenal Konsep dan Aplikasinya)
 
 
 ## Official Documentation
