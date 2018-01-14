@@ -1,9 +1,11 @@
 
 // Body
-//$body-bg: #f5f8fa;
-$body-bg: #1512d4;
+$body-bg: #f5f8fa;
+//$body-bg: hsl(240, 1%, 26%);
+//$body-bg:red;
 
-// Borders
+
+// Borders 
 $laravel-border-color: darken($body-bg, 10%);
 $list-group-border: $laravel-border-color;
 $navbar-default-border: $laravel-border-color;
