@@ -13,6 +13,9 @@
 ## 14-15 January 
 - Template Blade (Buat Navigasi dan Perpindahan antar Halaman)
 - Database Migration (Mengenal Konsep dan Aplikasinya)
+- Berkenalan dengan tinker
+- Interaksi dengan database
+- Routing Resource 
 
 
 ## Official Documentation
