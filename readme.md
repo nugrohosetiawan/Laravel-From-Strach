@@ -16,6 +16,11 @@
 - Berkenalan dengan tinker
 - Interaksi dengan database
 - Routing Resource 
+## 18-19 January
+- Fetching Data
+- Berkenalan dengan Eloquent
+- Pagination
+
 
 
 ## Official Documentation
