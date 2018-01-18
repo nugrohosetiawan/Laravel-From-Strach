@@ -20,7 +20,8 @@
 - Fetching Data
 - Berkenalan dengan Eloquent
 - Pagination
-
+- Cke Editor Install dan Penggunaan secara simpel 
+- Laravel Collective Installation
 
 
 ## Official Documentation
